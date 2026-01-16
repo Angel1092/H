@@ -1,3 +1,7 @@
+// Angel Guerra (angel.guerra@malad.us)
+// For CTE Software Development 2
+// Instructor: Mr. Gross
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
